@@ -1,0 +1,15 @@
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\bin\Debug\net8.0\ViajeEspacial.exe
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\bin\Debug\net8.0\ViajeEspacial.deps.json
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\bin\Debug\net8.0\ViajeEspacial.runtimeconfig.json
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\bin\Debug\net8.0\ViajeEspacial.dll
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\bin\Debug\net8.0\ViajeEspacial.pdb
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.AssemblyInfoInputs.cache
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.AssemblyInfo.cs
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.csproj.CoreCompileInputs.cache
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.sourcelink.json
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.dll
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\refint\ViajeEspacial.dll
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.pdb
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ViajeEspacial.genruntimeconfig.cache
+C:\Users\dorsettimartinez\source\repos\ViajeEspacial\ViajeEspacial\obj\Debug\net8.0\ref\ViajeEspacial.dll

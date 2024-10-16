@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|c:\\users\\dorsettimartinez\\source\\repos\\viajeespacial\\viajeespacial\\modelos\\gestionmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|solutionrelative:viajeespacial\\modelos\\gestionmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|c:\\users\\dorsettimartinez\\source\\repos\\viajeespacial\\viajeespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|solutionrelative:viajeespacial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|c:\\users\\dorsettimartinez\\source\\repos\\viajeespacial\\viajeespacial\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C6C1F3-49C0-4BEE-B06D-0D3B4FE8C4AB}|ViajeEspacial\\ViajeEspacial.csproj|solutionrelative:viajeespacial\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Modelos\\Menu.cs",
+              "RelativeDocumentMoniker": "ViajeEspacial\\Modelos\\Menu.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Modelos\\Menu.cs",
+              "RelativeToolTip": "ViajeEspacial\\Modelos\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:25:56.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Modelos\\GestionMisiones.cs",
+              "RelativeDocumentMoniker": "ViajeEspacial\\Modelos\\GestionMisiones.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Modelos\\GestionMisiones.cs",
+              "RelativeToolTip": "ViajeEspacial\\Modelos\\GestionMisiones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:25:50.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Program.cs",
+              "RelativeDocumentMoniker": "ViajeEspacial\\Program.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\ViajeEspacial\\ViajeEspacial\\Program.cs",
+              "RelativeToolTip": "ViajeEspacial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T20:06:33.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
