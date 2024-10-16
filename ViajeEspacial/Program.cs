@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("a");
+            Menu.MostrarMenu();
         }
     }
 }
