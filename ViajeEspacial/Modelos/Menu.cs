@@ -20,9 +20,9 @@ namespace ViajeEspacial.Modelos
             {
                 Console.WriteLine("\n --- Menú de misiones ---\n" +
                     "1. Agregar mision\n" +
-                    "2. Mostrar mision\n" +
+                    "2. Eliminar mision\n" +
                     "3. Modificar mision\n" +
-                    "4. Eliminar mision\n" +
+                    "4. Mostrar mision\n" +
                     "5. Salir\n");
                 Console.Write("Seleccione una opcion: ");
                 string opcion = Console.ReadLine();
@@ -41,7 +41,7 @@ namespace ViajeEspacial.Modelos
             }
         }
 
-        static Mision CrearMision()
+        static Mision CrearMision(string nombre)
         {
             Console.WriteLine("Seleccione el destino: ");
             foreach (var destino in Enum.GetValues(typeof(Destino)))
@@ -61,7 +61,7 @@ namespace ViajeEspacial.Modelos
 
             int tipoMision = int.Parse(Console.ReadLine());
 
-            Mision nuevaMision = new();
+            Mision nuevaMision = null;
 
             switch (tipoMision)
             {
@@ -79,7 +79,7 @@ namespace ViajeEspacial.Modelos
                     break;
                 default:
                     Console.WriteLine("Tipo de misión inválido");
-                    breaak;
+                    break;
             }
             return nuevaMision;
         }
