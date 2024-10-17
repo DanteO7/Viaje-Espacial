@@ -4,6 +4,7 @@
     {
         static void Main()
         {
+            GestionMisiones.CargarDatos(GestionMisiones.ArchivoMisiones);
             Menu.MostrarMenu();
         }
     }
